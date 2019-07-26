@@ -1,0 +1,26 @@
+body{
+    background-image: url("im.jpg") ;
+    background-size: 300px 100px;
+}
+.container{
+    color: white;
+    text-align: center;
+    font-size: 44px;
+}
+#type{
+    padding: 25px;
+    padding-left: 115px;
+    text-align: center;
+    border-radius: 18px;
+    border: 4px solid black;
+    font-size: 40px;
+ 
+}#button{
+    padding: 12px;
+    padding-right: 60px;
+    padding-left: 60px;
+    font-size: 24px;
+    background-color: beige;
+    border: none;
+    border-radius: 11px;
+}
